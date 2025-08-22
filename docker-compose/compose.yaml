@@ -1,0 +1,17 @@
+---
+services:
+  komodo-import:
+    image: foxxmd/komodo-import:latest
+    restart: no
+    volumes:
+      ## Parent directory where all subfolders are compose projects
+      - /home/aaron/.config/docker:/filesOnServer
+    environment:
+      ## Same as mounted directory above
+      - HOST_PARENT_PATH=/home/aaron/.config/docker
+      ## Forces glob to not ignore dot folders
+      - GLOB_DOT=true
+      ## Determines what sources to generate Stacks from
+      - STACKS_FROM=dir ## Generate stacks from subfolders in directory
+      ## Name of Server for this machine, in Komodo
+      - SERVER_NAME=crait

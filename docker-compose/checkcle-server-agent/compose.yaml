@@ -1,0 +1,27 @@
+---
+services:
+  checkcle-server-agent:
+    image: operacle/checkcle-server-agent:latest
+    container_name: monitoring-agent
+    restart: unless-stopped
+    ports:
+      - 8082:8081
+    group_add:
+      - "999"
+    environment:
+      - AGENT_ID= ${CRAIT_CHECKCLE_AGENT_ID}
+      - SERVER_NAME= ${CRAIT_CHECKCLE_SERVER_NAME}
+      - SERVER_TOKEN= ${CRAIT_CHECKCLE_SERVER_TOKEN}
+      - POCKETBASE_URL= ${CRAIT_CHECKCLE_POCKETBASE_URL}
+      - POCKETBASE_ENABLED= ${CRAIT_CHECKCLE_POCKETBASE_ENABLED}
+    volumes:
+      - /proc:/host/proc:ro
+      - /etc:/host/etc:ro
+      - /sys:/host/sys:ro
+      - /:/host/root:ro
+      - /var/run:/host/var/run:ro
+      - /dev:/host/dev:ro
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ${DOCKER_STORAGE_DIR}/monitoring_data:/var/lib/monitoring-agent
+      - ${DOCKER_STORAGE_DIR}/monitoring_logs:/var/log/monitoring-agent
+networks: {}

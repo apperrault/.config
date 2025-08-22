@@ -1,0 +1,16 @@
+---
+services:
+  dockwatch:
+    container_name: dockwatch
+    image: ghcr.io/notifiarr/dockwatch:main
+    restart: unless-stopped
+    ports:
+      - 9998:80/tcp
+    environment:
+      - PUID= ${CRAIT_DOCKWATCH_PUID}
+      - PGID= ${CRAIT_DOCKWATCH_PGID}
+      - TZ= ${TZ}
+    volumes:
+      - ${DOCKER_STORAGE_DIR}/dockwatch/config:/config
+      - /var/run/docker.sock:/var/run/docker.sock:ro # Comment this line if you use a socket proxy
+networks: {}

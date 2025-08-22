@@ -1,0 +1,16 @@
+---
+services:
+  dockge:
+    image: louislam/dockge:1
+    container_name: dockge
+    restart: unless-stopped
+    ports:
+      - 5001:5001
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /home/aaron/.config/docker/dockge:/app/data
+      - /home/aaron/.config/docker-compose:/home/aaron/.config/docker-compose
+    environment:
+      - DOCKGE_STACKS_DIR=/home/aaron/.config/docker-compose
+      - DOCKER_STORAGE_DIR=/home/aaron/.config/docker
+networks: {}

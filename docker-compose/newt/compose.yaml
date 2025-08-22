@@ -1,0 +1,13 @@
+---
+services:
+  newt:
+    image: fosrl/newt
+    container_name: newt
+    restart: unless-stopped
+    environment: 
+      - PANGOLIN_ENDPOINT= ${CRAIT_NEWT_PANGOLIN_ENDPOINT}
+      - NEWT_ID= ${CRAIT_NEWT_NEWT_ID}
+      - NEWT_SECRET= ${CRAIT_NEWT_NEWT_SECRET}
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+networks: {}

@@ -12,6 +12,7 @@ services:
       - AGENT_ID="agent_6m9ybnmcgjgj8rt1wsoxx"
       - SERVER_NAME="crait"
       - SERVER_TOKEN="srv_ngolf66jqnogrrkeuzlas"
+      - HOSTNAME="crait"
       - POCKETBASE_URL="http://192.168.0.25:8090"
       - POCKETBASE_ENABLED=true
     volumes:

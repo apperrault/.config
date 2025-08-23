@@ -8,9 +8,9 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - ./beszel_agent_data:/var/lib/beszel-agent
-    environment: 
-      LISTEN: ${CRAIT_BESZEL_LISTEN}
-      KEY: ${CRAIT_BESZEL_KEY}
-      TOKEN: ${CRAIT_BESZEL_TOKEN}
-      HUB_URL: ${CRAIT_BESZEL_HUB_URL}
+    environment:
+      LISTEN: 45876
+      KEY: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKoPfLs2B6e81x7QzjlfoC/X1APPHzWP/lX5Bu1oyhn2'
+      TOKEN: 9714009c-e157-426e-9af3-17fdf77519d3
+      HUB_URL: https://beszel.aaronperrault.com
 networks: {}

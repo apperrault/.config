@@ -106,3 +106,33 @@
 2025-08-23 11:30:00 [WARN] crons/pulls.php LN: 367 :: Skipping: beszel-agent, frequency setting will run: 2025-08-24 02:00:00
 2025-08-23 11:30:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockge, frequency setting will run: 2025-08-24 02:00:00
 2025-08-23 11:30:00 [INFO] crons/pulls.php LN: 401 :: run <-
+2025-08-23 11:35:00 [INFO] crons/pulls.php LN: 16 :: run ->
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockwatch, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: newt, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: glances, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dozzle-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockerproxy, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: monitoring-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: beszel-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockge, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:35:00 [INFO] crons/pulls.php LN: 401 :: run <-
+2025-08-23 11:40:00 [INFO] crons/pulls.php LN: 16 :: run ->
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockwatch, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: newt, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: glances, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dozzle-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockerproxy, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: monitoring-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: beszel-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockge, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:40:00 [INFO] crons/pulls.php LN: 401 :: run <-
+2025-08-23 11:45:00 [INFO] crons/pulls.php LN: 16 :: run ->
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockwatch, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: newt, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: glances, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dozzle-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockerproxy, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: monitoring-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: beszel-agent, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [WARN] crons/pulls.php LN: 367 :: Skipping: dockge, frequency setting will run: 2025-08-24 02:00:00
+2025-08-23 11:45:00 [INFO] crons/pulls.php LN: 401 :: run <-

@@ -1,47 +1,58 @@
 [
 	{
+		"BlockIO": "0B / 20.5kB",
+		"CPUPerc": "0.00%",
+		"Container": "9e91cec88f90",
+		"ID": "9e91cec88f903c17477ba37d54ac121a293267c8b243be0c810cac7e8d1bf285",
+		"MemPerc": "0.03%",
+		"MemUsage": "8.227MiB / 31.24GiB",
+		"Name": "monitoring-agent",
+		"NetIO": "138kB / 107kB",
+		"PIDs": "11"
+	},
+	{
 		"BlockIO": "0B / 4.1kB",
 		"CPUPerc": "0.00%",
 		"Container": "8769c7a46966",
 		"ID": "8769c7a4696699f400bf2c24d1f267260b9941d07c60e5c107258938f1bc9533",
-		"MemPerc": "0.03%",
-		"MemUsage": "10.06MiB / 31.24GiB",
+		"MemPerc": "0.04%",
+		"MemUsage": "11.52MiB / 31.24GiB",
 		"Name": "beszel-agent",
 		"NetIO": "0B / 0B",
 		"PIDs": "12"
 	},
 	{
-		"BlockIO": "123kB / 9.31MB",
-		"CPUPerc": "0.40%",
+		"BlockIO": "123kB / 11.1MB",
+		"CPUPerc": "2.13%",
 		"Container": "2d1fe3a48676",
 		"ID": "2d1fe3a48676cc2078c2bec8d97a43b3cdb344d4c6bcaee7d8309a0e26a01edb",
 		"MemPerc": "0.15%",
-		"MemUsage": "48.48MiB / 31.24GiB",
+		"MemUsage": "49.45MiB / 31.24GiB",
 		"Name": "dockwatch",
-		"NetIO": "6.78kB / 2.14kB",
+		"NetIO": "6.85kB / 2.14kB",
 		"PIDs": "54"
 	},
 	{
 		"BlockIO": "0B / 0B",
-		"CPUPerc": "0.00%",
+		"CPUPerc": "0.04%",
 		"Container": "db575d2686cd",
 		"ID": "db575d2686cd4ad9a9982d8acd6ff036347b92fada4af9b27977d16ad6902f50",
 		"MemPerc": "0.06%",
 		"MemUsage": "20.07MiB / 31.24GiB",
 		"Name": "newt",
-		"NetIO": "9.8kB / 3.22kB",
+		"NetIO": "9.87kB / 3.22kB",
 		"PIDs": "11"
 	},
 	{
 		"BlockIO": "0B / 1.12MB",
-		"CPUPerc": "0.95%",
+		"CPUPerc": "0.50%",
 		"Container": "1a5dcef4f340",
 		"ID": "1a5dcef4f34086ef30167bb74cc450e2cfedbe34022331b95154ba6789f31cc8",
 		"MemPerc": "0.17%",
-		"MemUsage": "54.4MiB / 31.24GiB",
+		"MemUsage": "54.36MiB / 31.24GiB",
 		"Name": "glances",
-		"NetIO": "1.77kB / 464B",
-		"PIDs": "7"
+		"NetIO": "1.84kB / 464B",
+		"PIDs": "6"
 	},
 	{
 		"BlockIO": "0B / 4.1kB",
@@ -49,14 +60,14 @@
 		"Container": "6d7e179b163e",
 		"ID": "6d7e179b163ecc377a946dc2a34225e5c3f364242953c467275adb6f3e565e23",
 		"MemPerc": "0.05%",
-		"MemUsage": "15.14MiB / 31.24GiB",
+		"MemUsage": "15.18MiB / 31.24GiB",
 		"Name": "dozzle-agent",
-		"NetIO": "6.71kB / 3.68kB",
+		"NetIO": "11.1kB / 7.69kB",
 		"PIDs": "13"
 	},
 	{
 		"BlockIO": "0B / 12.3kB",
-		"CPUPerc": "0.06%",
+		"CPUPerc": "0.05%",
 		"Container": "3690ff6196ea",
 		"ID": "3690ff6196ea52b466eedee22acb4f1a7ac647a5531ba90f90784a8cdf765a92",
 		"MemPerc": "0.01%",
@@ -66,25 +77,14 @@
 		"PIDs": "9"
 	},
 	{
-		"BlockIO": "0B / 0B",
-		"CPUPerc": "0.00%",
-		"Container": "d7d36c6b538c",
-		"ID": "d7d36c6b538c84620a5e9ee7822dd8af6b47eaf137b087bb6db54fbf0d93bdbc",
-		"MemPerc": "0.00%",
-		"MemUsage": "0B / 0B",
-		"Name": "monitoring-agent",
-		"NetIO": "0B / 0B",
-		"PIDs": "0"
-	},
-	{
 		"BlockIO": "0B / 45.1kB",
-		"CPUPerc": "0.01%",
+		"CPUPerc": "0.13%",
 		"Container": "1b3778659cb5",
 		"ID": "1b3778659cb544cf1b31213d81ea1f13ecdae16b19c4f4e8422b04f1b4f07eff",
 		"MemPerc": "0.45%",
-		"MemUsage": "145.1MiB / 31.24GiB",
+		"MemUsage": "143.8MiB / 31.24GiB",
 		"Name": "dockge",
-		"NetIO": "107kB / 409kB",
+		"NetIO": "140kB / 556kB",
 		"PIDs": "24"
 	}
 ]

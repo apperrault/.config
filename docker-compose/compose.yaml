@@ -1,4 +1,3 @@
----
 services:
   komodo-import:
     image: foxxmd/komodo-import:latest
@@ -15,3 +14,9 @@ services:
       - STACKS_FROM=dir ## Generate stacks from subfolders in directory
       ## Name of Server for this machine, in Komodo
       - SERVER_NAME=crait
+
+      ## Configuration for interacting with Komodo API
+      - KOMODO_URL=http://192.168.0.45:8120
+      - API_KEY=K-jpwOwHO0KwOKG4V4vqXjkte4Q9JSW3ktg4gNnR0S
+      - API_SECRET=S-DRB4vFwOwXyNuAHIRNDd46SZ9RexddPAjoJcOk6O
+      - OUTPUT_API_SYNC=true #Create Sync Resource in Komodo

@@ -1,0 +1,131 @@
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 120 :: ====================|
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 121 :: ====================| migrations
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 122 :: ====================|
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 123 :: migration 001 ->
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE settings ( id INTEGER PRIMARY KEY, name TEXT NOT NULL UNIQUE, value TEXT NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE container_settings ( id INTEGER PRIMARY KEY, hash TEXT NOT NULL UNIQUE, updates INTEGER NOT NULL, frequency TEXT NOT NULL, restartUnhealthy INTEGER NOT NULL, disableNotifications INTEGER NOT NULL, shutdownDelay INTEGER NOT NULL, shutdownDelaySeconds INTEGER NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE container_groups ( id INTEGER PRIMARY KEY, hash TEXT NOT NULL UNIQUE, name TEXT NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE container_group_link ( id INTEGER PRIMARY KEY, group_id INTEGER NOT NULL, container_id INTEGER NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE notification_platform ( id INTEGER PRIMARY KEY, platform TEXT NOT NULL UNIQUE, parameters TEXT NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> INSERT INTO notification_platform (`id`, `platform`, `parameters`) VALUES ('1', 'Notifiarr', '{"apikey":{"label":"API Key","description":"The Notifiarr API key from your profile (integration specific or global)","type":"text","required":"true"}}'), ('2', 'Telegram', '')
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE notification_trigger ( id INTEGER PRIMARY KEY, name TEXT NOT NULL UNIQUE, label TEXT NOT NULL, description TEXT NOT NULL, event TEXT NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> INSERT INTO notification_trigger (`name`, `label`, `description`, `event`) VALUES ('updated', 'Updated', 'Send a notification when a container has had an update applied', 'updates'), ('updates', 'Updates', 'Send a notification when a container has an update available', 'updates'), ('stateChange', 'State change', 'Send a notification when a container has a state change (running -> down)', 'state'), ('added', 'Added', 'Send a notification when a container is added', 'state'), ('removed', 'Removed', 'Send a notification when a container is removed', 'state'), ('prune', 'Prune', 'Send a notification when an image or volume is pruned', 'prune'), ('cpuHigh', 'CPU usage', 'Send a notification when container CPU usage exceeds threshold (set in Settings)', 'usage'), ('memHigh', 'Memory usage', 'Send a notification when container memory usage exceeds threshold (set in Settings)', 'usage'), ('health', 'Health change', 'Send a notification when container becomes unhealthy', 'health')
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE notification_link ( id INTEGER PRIMARY KEY, name TEXT NOT NULL UNIQUE, platform_id INTEGER NOT NULL, platform_parameters TEXT NOT NULL, trigger_ids TEXT NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> CREATE TABLE servers ( id INTEGER PRIMARY KEY, name TEXT NOT NULL UNIQUE, url TEXT NOT NULL, apikey TEXT NOT NULL )
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('serverName', ''), ('maintenanceIP', ''), ('maintenancePort', '9998'), ('loginFailures', '6'), ('loginTimeout', '60'), ('updates', '2'), ('updatesFrequency', '0 2 * * *'), ('autoPruneImages', ''), ('autoPruneVolumes', ''), ('autoPruneNetworks', ''), ('autoPruneHour', '12'), ('cpuThreshold', ''), ('cpuAmount', ''), ('memThreshold', ''), ('sseEnabled', ''), ('cronLogLength', '1'), ('notificationLogLength', '1'), ('uiLogLength', '1'), ('apiLogLength', '1'), ('environment', '0'), ('overrideBlacklist', ''), ('externalLoading', '0'), ('taskStatsDisabled', '0'), ('taskStateDisabled', '0'), ('taskPullsDisabled', '0'), ('taskHousekeepingDisabled', '0'), ('taskHealthDisabled', '0'), ('taskPruneDisabled', '0')
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> INSERT INTO servers (`name`, `url`, `apikey`) VALUES ('Dockwatch', 'http://localhost', '2f397e412acc0f35ad43c94bba286d9964b3fa7322c5996f5c722071ff0e75d0')
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 241 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('migration', '001')
+2025-08-23 10:39:14 [INFO] migrations/001_initial_setup.php LN: 248 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 126 :: migration 001 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 002 ->
+2025-08-23 10:39:14 [INFO] migrations/002_remote_timeout.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('remoteServerTimeout', '20') ON CONFLICT(`name`) DO UPDATE SET value = 20 WHERE name = 'remoteServerTimeout'
+2025-08-23 10:39:14 [INFO] migrations/002_remote_timeout.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/002_remote_timeout.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '002' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/002_remote_timeout.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 002 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 003 ->
+2025-08-23 10:39:14 [INFO] migrations/003_state_cron_setting.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('stateCronTime', '5') ON CONFLICT(`name`) DO UPDATE SET value = 5 WHERE name = 'stateCronTime'
+2025-08-23 10:39:14 [INFO] migrations/003_state_cron_setting.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/003_state_cron_setting.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '003' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/003_state_cron_setting.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 003 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 004 ->
+2025-08-23 10:39:14 [INFO] migrations/004_track_viewing_page.php LN: 26 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('currentPage', 'overview') ON CONFLICT(`name`) DO UPDATE SET value = 'overview' WHERE name = 'currentPage'
+2025-08-23 10:39:14 [INFO] migrations/004_track_viewing_page.php LN: 33 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/004_track_viewing_page.php LN: 26 :: <span class="text-success">[Q]</span> DELETE FROM settings WHERE name = 'externalLoading'
+2025-08-23 10:39:14 [INFO] migrations/004_track_viewing_page.php LN: 33 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/004_track_viewing_page.php LN: 26 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '004' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/004_track_viewing_page.php LN: 33 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 004 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 005 ->
+2025-08-23 10:39:14 [INFO] migrations/005_telegram_parameters.php LN: 21 :: <span class="text-success">[Q]</span> UPDATE notification_platform SET parameters = '{"botToken":{"label":"Bot token","description":"The token for your bot (google: how to create a telegram bot via godfather)","type":"text","required":"true"}, "chatId":{"label":"Chat id","description":"The chat id for the channel where messages go, should start with -100 (google: gist nafiesl get-chat-id-for-a-channel)","type":"text","required":"true"}}' WHERE id = 2
+2025-08-23 10:39:14 [INFO] migrations/005_telegram_parameters.php LN: 28 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/005_telegram_parameters.php LN: 21 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '005' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/005_telegram_parameters.php LN: 28 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 005 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 006 ->
+2025-08-23 10:39:14 [INFO] migrations/006_telemetry_setting.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('telemetry', 1) ON CONFLICT(`name`) DO UPDATE SET value = 1 WHERE name = 'telemetry'
+2025-08-23 10:39:14 [INFO] migrations/006_telemetry_setting.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/006_telemetry_setting.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '006' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/006_telemetry_setting.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 006 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 007 ->
+2025-08-23 10:39:14 [INFO] migrations/007_mattermost_platform.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO notification_platform (`id`, `platform`, `parameters`) VALUES ('3', 'Mattermost', '{"url":{"label":"Webhook URL","description":"The url in Mattermost after adding a webhook","type":"text","required":"true"}}')
+2025-08-23 10:39:14 [INFO] migrations/007_mattermost_platform.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/007_mattermost_platform.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '007' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/007_mattermost_platform.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 007 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 008 ->
+2025-08-23 10:39:14 [INFO] migrations/008_ui_settings.php LN: 29 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('overviewLayout', '1') ON CONFLICT(`name`) DO UPDATE SET value = '1' WHERE name = 'overviewLayout'
+2025-08-23 10:39:14 [INFO] migrations/008_ui_settings.php LN: 36 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/008_ui_settings.php LN: 29 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('defaultPage', 'overview') ON CONFLICT(`name`) DO UPDATE SET value = 'overview' WHERE name = 'defaultPage'
+2025-08-23 10:39:14 [INFO] migrations/008_ui_settings.php LN: 36 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/008_ui_settings.php LN: 29 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '008' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/008_ui_settings.php LN: 36 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 008 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 009 ->
+2025-08-23 10:39:14 [INFO] migrations/009_container_min_age.php LN: 14 :: <span class="text-success">[Q]</span> ALTER TABLE container_settings ADD minage INTEGER NOT NULL DEFAULT 0
+2025-08-23 10:39:14 [INFO] migrations/009_container_min_age.php LN: 21 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/009_container_min_age.php LN: 14 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '009' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/009_container_min_age.php LN: 21 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 009 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 010 ->
+2025-08-23 10:39:14 [INFO] migrations/010_container_auto_restart.php LN: 17 :: <span class="text-success">[Q]</span> ALTER TABLE container_settings ADD autoRestart INTEGER NOT NULL DEFAULT 0
+2025-08-23 10:39:14 [INFO] migrations/010_container_auto_restart.php LN: 24 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/010_container_auto_restart.php LN: 17 :: <span class="text-success">[Q]</span> ALTER TABLE container_settings ADD autoRestartFrequency TEXT NOT NULL DEFAULT '0 2 * * *'
+2025-08-23 10:39:14 [INFO] migrations/010_container_auto_restart.php LN: 24 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/010_container_auto_restart.php LN: 17 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '010' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/010_container_auto_restart.php LN: 24 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 010 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 011 ->
+2025-08-23 10:39:14 [INFO] migrations/011_ui_theme.php LN: 29 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('defaultTheme', 'darkly') ON CONFLICT(`name`) DO UPDATE SET value = 'darkly' WHERE name = 'defaultTheme'
+2025-08-23 10:39:14 [INFO] migrations/011_ui_theme.php LN: 36 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/011_ui_theme.php LN: 29 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('defaultThemeMode', 'dark') ON CONFLICT(`name`) DO UPDATE SET value = 'overview' WHERE name = 'defaultPage'
+2025-08-23 10:39:14 [INFO] migrations/011_ui_theme.php LN: 36 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/011_ui_theme.php LN: 29 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '011' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/011_ui_theme.php LN: 36 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 011 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 012 ->
+2025-08-23 10:39:14 [INFO] migrations/012_usage_metrics.php LN: 16 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('usageMetricsRetention', '0')
+2025-08-23 10:39:14 [INFO] migrations/012_usage_metrics.php LN: 23 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/012_usage_metrics.php LN: 16 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '012' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/012_usage_metrics.php LN: 23 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 012 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 013 ->
+2025-08-23 10:39:14 [INFO] migrations/013_websocket_port.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('websocketPort', '9910')
+2025-08-23 10:39:14 [INFO] migrations/013_websocket_port.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/013_websocket_port.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '013' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/013_websocket_port.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 013 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 014 ->
+2025-08-23 10:39:14 [INFO] migrations/014_websocket_url.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('websocketUrl', '')
+2025-08-23 10:39:14 [INFO] migrations/014_websocket_url.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/014_websocket_url.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '014' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/014_websocket_url.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 014 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 015 ->
+2025-08-23 10:39:14 [INFO] migrations/015_container_gui.php LN: 24 :: <span class="text-success">[Q]</span> ALTER TABLE container_settings ADD containerGui TEXT NULL
+2025-08-23 10:39:14 [INFO] migrations/015_container_gui.php LN: 31 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/015_container_gui.php LN: 24 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('containerGui', '1')
+2025-08-23 10:39:14 [INFO] migrations/015_container_gui.php LN: 31 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/015_container_gui.php LN: 24 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '015' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/015_container_gui.php LN: 31 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 015 <-
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 141 :: migration 016 ->
+2025-08-23 10:39:14 [INFO] migrations/016_task_commands.php LN: 22 :: <span class="text-success">[Q]</span> INSERT INTO settings (`name`, `value`) VALUES ('taskCommandsDisabled', '0')
+2025-08-23 10:39:14 [INFO] migrations/016_task_commands.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] migrations/016_task_commands.php LN: 22 :: <span class="text-success">[Q]</span> UPDATE settings SET value = '016' WHERE name = 'migration'
+2025-08-23 10:39:14 [INFO] migrations/016_task_commands.php LN: 29 :: <span class="text-info">[R]</span> query applied!
+2025-08-23 10:39:14 [INFO] classes/Database.php LN: 144 :: migration 016 <-

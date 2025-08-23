@@ -1,0 +1,16 @@
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/servers.json' to '/config/backups/servers.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/settings.json' to '/config/backups/settings.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/state.json' to '/config/backups/state.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/pull.json' to '/config/backups/pull.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/logos.json' to '/config/backups/logos.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/health.json' to '/config/backups/health.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/container-alias.json' to '/config/backups/container-alias.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/stats.json' to '/config/backups/stats.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/dependencies.json' to '/config/backups/dependencies.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/sse.json' to '/config/backups/sse.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/metrics.json' to '/config/backups/metrics.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 125 :: backup file '/config/commands.json' to '/config/backups/commands.json'
+2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 149 :: run <-
+2025-08-23 10:50:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
+2025-08-23 10:50:00 [INFO] crons/housekeeper.php LN: 149 :: run <-

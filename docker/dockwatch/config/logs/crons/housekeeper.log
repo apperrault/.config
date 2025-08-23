@@ -14,3 +14,13 @@
 2025-08-23 10:40:00 [INFO] crons/housekeeper.php LN: 149 :: run <-
 2025-08-23 10:50:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
 2025-08-23 10:50:00 [INFO] crons/housekeeper.php LN: 149 :: run <-
+2025-08-23 11:00:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
+2025-08-23 11:00:00 [INFO] crons/housekeeper.php LN: 19 :: Usage Metrics (run every hour)
+2025-08-23 11:00:00 [INFO] crons/housekeeper.php LN: 22 :: $usageMetrics=null
+2025-08-23 11:00:00 [INFO] crons/housekeeper.php LN: 149 :: run <-
+2025-08-23 11:10:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
+2025-08-23 11:10:00 [INFO] crons/housekeeper.php LN: 149 :: run <-
+2025-08-23 11:20:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
+2025-08-23 11:20:00 [INFO] crons/housekeeper.php LN: 149 :: run <-
+2025-08-23 11:30:00 [INFO] crons/housekeeper.php LN: 14 :: run ->
+2025-08-23 11:30:00 [INFO] crons/housekeeper.php LN: 149 :: run <-

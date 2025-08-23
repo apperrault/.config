@@ -690,3 +690,2451 @@
 2025-08-23 10:50:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
 2025-08-23 10:50:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
 2025-08-23 10:50:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:51:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:51:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:51:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:51:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:51:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:51:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:51:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:51:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:51:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:51:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:51:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:51:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:51:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:51:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:51:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:51:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:51:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:51:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:51:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:51:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:51:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:51:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:51:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:51:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:51:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:51:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:51:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:51:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:51:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:51:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:51:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:51:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:51:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:51:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:51:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:52:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:52:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:52:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:52:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:52:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:52:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:52:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:52:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:52:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:52:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:52:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:52:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:52:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:52:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:52:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:52:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:52:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:52:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:52:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:52:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:52:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:52:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:52:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:52:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:52:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:52:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:52:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:52:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:52:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:52:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:52:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:52:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:52:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:52:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:52:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:53:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:53:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:53:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:53:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:53:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:53:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:53:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:53:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:53:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:53:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:53:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:53:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:53:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:53:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:53:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:53:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:53:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:53:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:53:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:53:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:53:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:53:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:53:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:53:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:53:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:53:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:53:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:53:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:53:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:53:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:53:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:53:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:53:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:53:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:53:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:54:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:54:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:54:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:54:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:54:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:54:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:54:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:54:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:54:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:54:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:54:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:54:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:54:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:54:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:54:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:54:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:54:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:54:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:54:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:54:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:54:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:54:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:54:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:54:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:54:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:54:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:54:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:54:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:54:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:54:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:54:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:54:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:54:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:54:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:54:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:55:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:55:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:55:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:55:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:55:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:55:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:55:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:55:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:55:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:55:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:55:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:55:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:55:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:55:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:55:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:55:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:55:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:55:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:55:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:55:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:55:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 10:55:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 10:55:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:55:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:55:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:55:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:55:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:55:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:55:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:55:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:55:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:55:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:55:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:55:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:55:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:55:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 10:55:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 10:55:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:55:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:56:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:56:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:56:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:56:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:56:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:56:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:56:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:56:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:56:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:56:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:56:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:56:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:56:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:56:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:56:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:56:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:56:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:56:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:56:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:56:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:56:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:56:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:56:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:56:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:56:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:56:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:56:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:56:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:56:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:56:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:56:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:56:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:56:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:56:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:56:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:57:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:57:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:57:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:57:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:57:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:57:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:57:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:57:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:57:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:57:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:57:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:57:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:57:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:57:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:57:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:57:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:57:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:57:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:57:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:57:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:57:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:57:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:57:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:57:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:57:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:57:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:57:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:57:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:57:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:57:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:57:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:57:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:57:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:57:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:57:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:58:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:58:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:58:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:58:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:58:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:58:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:58:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:58:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:58:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:58:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:58:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:58:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:58:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:58:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:58:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:58:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:58:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:58:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:58:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:58:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:58:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:58:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:58:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:58:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:58:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:58:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:58:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:58:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:58:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:58:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:58:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:58:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:58:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:58:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:58:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:59:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:59:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:59:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:59:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:59:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:59:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 10:59:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:59:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:59:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:59:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 10:59:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:59:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 10:59:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:59:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:59:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:59:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:59:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:59:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 10:59:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:59:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:59:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:59:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 10:59:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:59:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 10:59:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:59:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:59:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:59:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 10:59:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 10:59:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 10:59:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 10:59:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 10:59:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 10:59:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 10:59:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] crons/health.php LN: 13 :: Cron: running health
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] crons/prune.php LN: 15 :: Cron: running prune
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:00:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:00:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:00:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:00:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:00:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:00:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:00:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:00:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 24 :: getFile() /config/stats.json
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:00:00 [INFO] crons/housekeeper.php LN: 13 :: Cron: running housekeeper
+2025-08-23 11:00:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:00:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:00:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:01:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:01:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:01:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:01:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:01:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:01:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:01:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:01:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:01:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:01:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:01:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:01:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:01:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:01:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:01:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:01:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:01:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:01:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:01:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:01:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:01:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:01:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:01:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:01:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:01:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:01:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:01:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:01:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:01:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:01:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:01:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:01:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:01:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:01:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:01:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:02:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:02:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:02:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:02:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:02:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:02:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:02:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:02:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:02:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:02:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:02:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:02:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:02:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:02:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:02:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:02:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:02:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:02:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:02:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:02:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:02:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:02:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:02:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:02:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:02:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:02:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:02:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:02:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:02:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:02:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:02:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:02:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:02:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:02:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:02:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:03:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:03:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:03:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:03:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:03:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:03:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:03:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:03:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:03:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:03:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:03:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:03:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:03:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:03:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:03:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:03:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:03:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:03:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:03:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:03:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:03:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:03:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:03:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:03:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:03:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:03:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:03:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:03:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:03:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:03:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:03:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:03:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:03:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:03:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:03:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:04:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:04:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:04:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:04:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:04:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:04:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:04:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:04:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:04:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:04:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:04:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:04:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:04:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:04:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:04:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:04:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:04:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:04:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:04:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:04:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:04:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:04:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:04:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:04:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:04:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:04:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:04:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:04:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:04:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:04:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:04:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:04:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:04:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:04:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:04:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:05:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:05:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:05:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:05:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:05:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:05:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:05:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:05:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:05:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:05:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:05:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:05:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:05:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:05:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:05:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:05:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:05:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:05:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:05:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:05:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:05:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:05:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:05:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:05:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:05:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:05:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:05:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:05:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:05:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:05:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:05:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:05:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:05:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:05:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:05:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:05:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:05:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:05:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:06:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:06:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:06:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:06:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:06:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:06:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:06:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:06:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:06:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:06:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:06:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:06:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:06:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:06:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:06:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:06:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:06:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:06:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:06:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:06:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:06:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:06:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:06:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:06:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:06:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:06:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:06:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:06:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:06:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:06:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:06:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:06:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:06:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:06:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:06:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:07:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:07:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:07:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:07:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:07:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:07:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:07:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:07:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:07:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:07:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:07:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:07:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:07:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:07:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:07:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:07:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:07:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:07:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:07:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:07:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:07:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:07:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:07:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:07:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:07:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:07:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:07:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:07:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:07:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:07:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:07:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:07:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:07:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:07:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:07:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:08:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:08:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:08:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:08:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:08:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:08:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:08:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:08:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:08:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:08:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:08:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:08:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:08:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:08:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:08:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:08:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:08:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:08:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:08:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:08:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:08:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:08:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:08:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:08:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:08:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:08:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:08:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:08:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:08:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:08:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:08:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:08:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:08:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:08:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:08:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:09:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:09:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:09:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:09:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:09:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:09:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:09:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:09:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:09:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:09:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:09:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:09:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:09:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:09:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:09:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:09:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:09:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:09:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:09:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:09:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:09:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:09:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:09:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:09:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:09:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:09:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:09:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:09:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:10:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:10:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:10:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:10:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:10:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:10:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:10:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:10:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:10:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:10:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:10:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:10:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:10:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:10:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:10:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:10:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:10:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:10:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:10:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:10:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:10:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:10:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:10:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:10:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:10:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:10:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:10:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:10:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:10:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:10:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:10:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:10:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:10:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:10:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:10:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:10:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:10:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 24 :: getFile() /config/stats.json
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:10:00 [INFO] crons/housekeeper.php LN: 13 :: Cron: running housekeeper
+2025-08-23 11:10:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:10:03 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:10:03 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:11:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:11:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:11:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:11:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:11:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:11:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:11:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:11:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:11:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:11:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:11:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:11:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:11:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:11:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:11:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:11:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:11:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:11:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:11:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:11:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:11:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:11:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:11:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:11:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:11:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:11:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:11:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:11:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:11:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:11:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:11:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:11:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:11:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:11:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:11:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:12:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:12:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:12:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:12:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:12:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:12:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:12:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:12:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:12:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:12:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:12:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:12:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:12:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:12:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:12:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:12:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:12:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:12:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:12:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:12:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:12:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:12:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:12:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:12:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:12:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:12:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:12:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:12:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:13:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:13:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:13:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:13:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:13:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:13:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:13:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:13:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:13:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:13:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:13:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:13:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:13:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:13:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:13:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:13:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:13:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:13:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:13:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:13:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:13:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:13:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:13:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:13:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:13:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:13:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:13:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:13:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:13:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:13:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:13:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:13:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:13:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:13:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:13:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:14:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:14:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:14:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:14:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:14:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:14:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:14:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:14:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:14:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:14:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:14:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:14:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:14:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:14:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:14:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:14:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:14:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:14:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:14:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:14:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:14:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:14:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:14:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:14:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:14:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:14:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:14:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:14:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:14:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:14:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:14:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:14:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:14:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:14:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:14:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:15:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:15:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:15:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:15:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:15:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:15:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:15:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:15:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:15:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:15:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:15:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:15:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:15:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:15:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:15:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:15:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:15:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:15:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:15:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:15:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:15:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:15:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:15:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:15:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:15:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:15:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:15:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:15:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:15:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:15:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:15:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:15:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:15:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:15:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:15:00 [INFO] crons/health.php LN: 13 :: Cron: running health
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:15:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:15:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:15:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:15:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:15:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:15:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:15:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:16:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:16:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:16:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:16:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:16:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:16:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:16:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:16:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:16:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:16:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:16:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:16:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:16:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:16:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:16:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:16:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:16:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:16:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:16:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:16:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:16:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:16:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:16:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:16:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:16:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:16:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:16:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:16:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:16:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:16:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:16:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:16:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:16:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:16:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:16:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:17:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:17:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:17:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:17:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:17:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:17:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:17:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:17:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:17:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:17:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:17:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:17:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:17:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:17:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:17:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:17:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:17:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:17:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:17:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:17:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:17:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:17:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:17:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:17:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:17:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:17:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:17:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:17:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:17:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:17:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:17:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:17:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:17:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:17:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:17:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:18:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:18:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:18:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:18:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:18:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:18:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:18:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:18:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:18:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:18:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:18:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:18:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:18:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:18:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:18:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:18:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:18:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:18:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:18:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:18:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:18:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:18:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:18:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:18:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:18:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:18:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:18:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:18:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:18:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:18:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:18:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:18:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:18:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:18:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:18:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:19:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:19:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:19:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:19:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:19:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:19:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:19:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:19:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:19:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:19:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:19:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:19:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:19:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:19:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:19:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:19:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:19:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:19:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:19:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:19:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:19:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:19:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:19:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:19:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:19:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:19:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:19:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:19:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:19:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:19:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:19:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:19:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:19:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:19:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:19:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:20:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:20:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:20:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:20:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:20:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:20:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:20:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:20:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:20:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:20:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:20:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:20:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:20:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:20:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:20:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:20:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:20:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:20:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:20:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:20:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:20:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:20:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:20:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:20:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:20:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:20:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:20:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:20:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:20:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:20:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:20:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:20:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:20:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:20:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:20:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:20:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:20:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:20:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:20:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:20:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 24 :: getFile() /config/stats.json
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:20:00 [INFO] crons/housekeeper.php LN: 13 :: Cron: running housekeeper
+2025-08-23 11:20:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:20:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:20:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:21:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:21:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:21:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:21:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:21:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:21:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:21:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:21:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:21:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:21:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:21:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:21:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:21:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:21:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:21:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:21:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:21:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:21:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:21:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:21:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:21:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:21:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:21:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:21:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:21:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:21:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:21:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:21:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:21:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:21:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:21:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:21:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:21:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:21:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:21:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:22:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:22:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:22:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:22:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:22:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:22:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:22:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:22:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:22:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:22:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:22:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:22:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:22:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:22:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:22:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:22:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:22:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:22:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:22:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:22:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:22:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:22:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:22:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:22:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:22:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:22:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:22:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:22:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:22:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:22:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:22:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:22:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:22:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:22:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:22:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:23:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:23:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:23:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:23:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:23:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:23:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:23:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:23:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:23:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:23:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:23:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:23:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:23:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:23:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:23:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:23:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:23:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:23:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:23:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:23:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:23:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:23:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:23:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:23:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:23:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:23:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:23:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:23:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:23:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:23:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:23:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:23:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:23:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:23:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:23:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:24:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:24:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:24:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:24:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:24:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:24:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:24:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:24:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:24:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:24:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:24:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:24:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:24:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:24:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:24:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:24:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:24:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:24:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:24:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:24:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:24:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:24:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:24:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:24:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:24:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:24:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:24:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:24:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:24:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:24:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:24:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:24:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:24:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:24:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:24:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:25:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:25:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:25:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:25:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:25:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:25:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:25:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:25:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:25:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:25:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:25:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:25:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:25:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:25:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:25:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:25:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:25:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:25:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:25:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:25:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:25:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:25:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:25:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:25:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:25:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:25:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:25:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:25:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:25:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:25:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:25:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:25:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:25:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:25:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:25:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:25:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:25:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:25:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:25:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:26:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:26:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:26:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:26:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:26:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:26:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:26:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:26:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:26:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:26:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:26:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:26:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:26:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:26:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:26:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:26:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:26:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:26:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:26:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:26:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:26:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:26:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:26:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:26:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:26:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:26:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:26:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:26:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:26:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:26:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:26:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:26:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:26:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:26:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:27:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:27:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:27:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:27:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:27:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:27:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:27:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:27:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:27:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:27:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:27:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:27:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:27:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:27:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:27:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:27:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:27:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:27:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:27:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:27:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:27:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:27:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:27:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:27:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:27:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:27:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:27:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:27:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:27:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:27:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:27:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:27:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:27:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:27:03 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:27:03 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:28:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:28:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:28:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:28:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:28:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:28:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:28:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:28:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:28:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:28:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:28:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:28:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:28:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:28:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:28:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:28:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:28:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:28:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:28:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:28:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:28:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:28:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:28:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:28:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:28:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:28:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:28:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:28:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:28:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:28:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:28:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:28:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:28:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:28:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:28:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:29:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:29:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:29:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:29:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:29:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:29:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:29:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:29:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:29:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:29:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:29:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:29:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:29:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:29:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:29:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:29:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:29:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:29:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:29:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:29:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:29:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:29:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:29:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:29:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:29:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:29:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:29:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:29:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:29:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:29:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:29:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:29:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:29:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:29:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:29:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:30:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:30:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:30:00 [INFO] crons/health.php LN: 13 :: Cron: running health
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:30:00 [INFO] Docker/Process.php LN: 14 :: dockerProcessList ->
+2025-08-23 11:30:00 [INFO] Docker/Process.php LN: 21 :: $cmd=/usr/bin/docker ps --all --no-trunc --size=false --format="{{json . }}" | jq -s --tab .
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:30:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:30:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:30:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:30:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:30:00 [INFO] crons/pulls.php LN: 15 :: Cron: running pulls
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/pull.json
+2025-08-23 11:30:00 [INFO] Docker/Process.php LN: 24 :: dockerProcessList <-
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 24 :: getFile() /config/stats.json
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:30:00 [INFO] crons/housekeeper.php LN: 13 :: Cron: running housekeeper
+2025-08-23 11:30:00 [INFO] functions/files.php LN: 35 :: setFile() /config/state.json
+2025-08-23 11:30:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:30:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:31:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:31:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:31:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:31:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:31:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:31:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:31:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:31:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:31:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:31:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:31:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:31:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:31:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:31:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:31:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:31:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:31:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:31:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:31:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:31:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:31:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:31:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:31:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:31:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:31:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:31:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:31:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:31:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:31:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:31:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:31:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:31:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:31:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:31:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:31:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:32:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:32:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:32:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:32:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:32:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:32:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:32:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:32:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:32:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:32:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:32:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:32:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:32:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:32:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:32:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:32:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:32:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:32:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:32:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:32:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:32:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:32:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:32:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:32:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:32:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:32:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:32:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:32:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:32:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:32:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:32:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:32:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:32:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:32:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:32:02 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:33:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:33:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:33:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:33:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:33:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:33:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:33:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:33:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:33:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:33:00 [INFO] loader.php LN: 80 :: Init class: Memcache()
+2025-08-23 11:33:00 [INFO] loader.php LN: 85 :: Init class: Database()
+2025-08-23 11:33:00 [INFO] classes/Database.php LN: 36 :: Connect to '/config/database/dockwatch.db'
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 35 :: setFile() /config/migration-in-progress.txt
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 43 :: deleteFile() /config/migration-in-progress.txt
+2025-08-23 11:33:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:33:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:33:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:33:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:33:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:33:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:33:00 [INFO] loader.php LN: 109 :: Init class: Shell()
+2025-08-23 11:33:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:33:00 [INFO] loader.php LN: 113 :: Init class: Docker()
+2025-08-23 11:33:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:33:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:33:00 [INFO] loader.php LN: 121 :: Init class: Notifications()
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/state.json
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:33:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:33:00 [INFO] crons/state.php LN: 13 :: Cron: running state
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/pull.json
+2025-08-23 11:33:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:33:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:33:00 [INFO] loader.php LN: 153 :: Starting
+2025-08-23 11:33:00 [INFO] crons/sse.php LN: 13 :: Cron: running sse
+2025-08-23 11:33:00 [INFO] crons/stats.php LN: 13 :: Cron: running stats
+2025-08-23 11:33:00 [INFO] crons/commands.php LN: 13 :: Cron: running commands
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 24 :: getFile() /config/commands.json
+2025-08-23 11:33:00 [INFO] functions/files.php LN: 35 :: setFile() /config/commands.json
+2025-08-23 11:33:03 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json
+2025-08-23 11:33:03 [INFO] functions/files.php LN: 35 :: setFile() /config/stats.json

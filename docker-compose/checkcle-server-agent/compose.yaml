@@ -9,11 +9,11 @@ services:
     group_add:
       - "999"
     environment:
-      - AGENT_ID= ${CRAIT_CHECKCLE_AGENT_ID}
-      - SERVER_NAME= ${CRAIT_CHECKCLE_SERVER_NAME}
-      - SERVER_TOKEN= ${CRAIT_CHECKCLE_SERVER_TOKEN}
-      - POCKETBASE_URL= ${CRAIT_CHECKCLE_POCKETBASE_URL}
-      - POCKETBASE_ENABLED= ${CRAIT_CHECKCLE_POCKETBASE_ENABLED}
+      - AGENT_ID="agent_6m9ybnmcgjgj8rt1wsoxx"
+      - SERVER_NAME="crait"
+      - SERVER_TOKEN="srv_ngolf66jqnogrrkeuzlas"
+      - POCKETBASE_URL="http://192.168.0.25:8090"
+      - POCKETBASE_ENABLED=true
     volumes:
       - /proc:/host/proc:ro
       - /etc:/host/etc:ro

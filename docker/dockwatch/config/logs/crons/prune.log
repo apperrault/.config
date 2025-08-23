@@ -1,0 +1,3 @@
+2025-08-23 11:00:00 [INFO] crons/prune.php LN: 16 :: run ->
+2025-08-23 11:00:00 [WARN] functions/crons.php LN: 87 :: Cron: skipped, frequency setting will run at hour 12
+2025-08-23 11:00:00 [INFO] functions/crons.php LN: 88 :: run <-

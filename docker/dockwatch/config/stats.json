@@ -1,68 +1,68 @@
 [
 	{
-		"BlockIO": "0B / 0B",
+		"BlockIO": "0B / 4.1kB",
 		"CPUPerc": "0.00%",
-		"Container": "647081ea70d4",
-		"ID": "647081ea70d4bf1fc6a84bcc42f57ec8586e4ae864ffa11e1b66bff1ee5f4022",
-		"MemPerc": "0.00%",
-		"MemUsage": "0B / 0B",
-		"Name": "docker-compose-komodo-import-1",
+		"Container": "8769c7a46966",
+		"ID": "8769c7a4696699f400bf2c24d1f267260b9941d07c60e5c107258938f1bc9533",
+		"MemPerc": "0.03%",
+		"MemUsage": "10.06MiB / 31.24GiB",
+		"Name": "beszel-agent",
 		"NetIO": "0B / 0B",
-		"PIDs": "0"
+		"PIDs": "12"
 	},
 	{
-		"BlockIO": "123kB / 4.07MB",
-		"CPUPerc": "0.03%",
+		"BlockIO": "123kB / 9.31MB",
+		"CPUPerc": "0.40%",
 		"Container": "2d1fe3a48676",
 		"ID": "2d1fe3a48676cc2078c2bec8d97a43b3cdb344d4c6bcaee7d8309a0e26a01edb",
 		"MemPerc": "0.15%",
-		"MemUsage": "47.68MiB / 31.24GiB",
+		"MemUsage": "48.48MiB / 31.24GiB",
 		"Name": "dockwatch",
-		"NetIO": "6.64kB / 2.14kB",
-		"PIDs": "55"
+		"NetIO": "6.78kB / 2.14kB",
+		"PIDs": "54"
 	},
 	{
 		"BlockIO": "0B / 0B",
-		"CPUPerc": "0.04%",
+		"CPUPerc": "0.00%",
 		"Container": "db575d2686cd",
 		"ID": "db575d2686cd4ad9a9982d8acd6ff036347b92fada4af9b27977d16ad6902f50",
-		"MemPerc": "0.05%",
-		"MemUsage": "17.3MiB / 31.24GiB",
+		"MemPerc": "0.06%",
+		"MemUsage": "20.07MiB / 31.24GiB",
 		"Name": "newt",
-		"NetIO": "9.66kB / 3.22kB",
+		"NetIO": "9.8kB / 3.22kB",
 		"PIDs": "11"
 	},
 	{
 		"BlockIO": "0B / 1.12MB",
-		"CPUPerc": "0.53%",
+		"CPUPerc": "0.95%",
 		"Container": "1a5dcef4f340",
 		"ID": "1a5dcef4f34086ef30167bb74cc450e2cfedbe34022331b95154ba6789f31cc8",
 		"MemPerc": "0.17%",
-		"MemUsage": "52.87MiB / 31.24GiB",
+		"MemUsage": "54.4MiB / 31.24GiB",
 		"Name": "glances",
-		"NetIO": "1.63kB / 464B",
-		"PIDs": "8"
+		"NetIO": "1.77kB / 464B",
+		"PIDs": "7"
 	},
 	{
 		"BlockIO": "0B / 4.1kB",
 		"CPUPerc": "0.00%",
 		"Container": "6d7e179b163e",
 		"ID": "6d7e179b163ecc377a946dc2a34225e5c3f364242953c467275adb6f3e565e23",
-		"MemPerc": "0.04%",
-		"MemUsage": "13.62MiB / 31.24GiB",
+		"MemPerc": "0.05%",
+		"MemUsage": "15.14MiB / 31.24GiB",
 		"Name": "dozzle-agent",
-		"NetIO": "6.57kB / 3.68kB",
+		"NetIO": "6.71kB / 3.68kB",
 		"PIDs": "13"
 	},
 	{
 		"BlockIO": "0B / 12.3kB",
-		"CPUPerc": "0.05%",
+		"CPUPerc": "0.06%",
 		"Container": "3690ff6196ea",
 		"ID": "3690ff6196ea52b466eedee22acb4f1a7ac647a5531ba90f90784a8cdf765a92",
 		"MemPerc": "0.01%",
 		"MemUsage": "3.301MiB / 31.24GiB",
 		"Name": "dockerproxy",
-		"NetIO": "1.53kB / 126B",
+		"NetIO": "1.67kB / 126B",
 		"PIDs": "9"
 	},
 	{
@@ -77,36 +77,14 @@
 		"PIDs": "0"
 	},
 	{
-		"BlockIO": "0B / 0B",
-		"CPUPerc": "0.00%",
-		"Container": "3e6e55834622",
-		"ID": "3e6e558346229b23cd516f46c4b27541554446449a9e27ce540fc34f30e6c058",
-		"MemPerc": "0.00%",
-		"MemUsage": "0B / 0B",
-		"Name": "beszel-agent",
-		"NetIO": "0B / 0B",
-		"PIDs": "0"
-	},
-	{
-		"BlockIO": "0B / 73.7kB",
-		"CPUPerc": "0.02%",
+		"BlockIO": "0B / 45.1kB",
+		"CPUPerc": "0.01%",
 		"Container": "1b3778659cb5",
 		"ID": "1b3778659cb544cf1b31213d81ea1f13ecdae16b19c4f4e8422b04f1b4f07eff",
-		"MemPerc": "0.52%",
-		"MemUsage": "166.8MiB / 31.24GiB",
+		"MemPerc": "0.45%",
+		"MemUsage": "145.1MiB / 31.24GiB",
 		"Name": "dockge",
-		"NetIO": "55.5kB / 210kB",
-		"PIDs": "48"
-	},
-	{
-		"BlockIO": "0B / 0B",
-		"CPUPerc": "0.00%",
-		"Container": "a5f8b28dcd8c",
-		"ID": "a5f8b28dcd8c8692c69c30eb66fa406019c8b52f4895485626a7b7e9dd6b89b0",
-		"MemPerc": "0.00%",
-		"MemUsage": "0B / 0B",
-		"Name": "nervous_bardeen",
-		"NetIO": "0B / 0B",
-		"PIDs": "0"
+		"NetIO": "107kB / 409kB",
+		"PIDs": "24"
 	}
 ]
